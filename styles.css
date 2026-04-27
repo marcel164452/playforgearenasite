@@ -4,7 +4,7 @@
     margin: 0px;
 
     color: #8bd1f5;
-    text-shadow: 3px 3px 0px black;
+    text-shadow: 2px 2px 0px black;
 }
 
 div{
@@ -15,14 +15,14 @@ div{
 }
 
 p, td{
-    font-family: "Madimi One", sans-serif;
+    font-family: "Maiden Orange", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 h1, h2{
-    font-family: "Macondo Swash Caps", cursive;
+    font-family: "Arbutus", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 4vw;
@@ -60,9 +60,6 @@ h1{
     left: 8%;
 }
 
-.div2{
-    
-}
 
 .div2 p, .div3 p, .div4 p, .div6 p{
     text-align: center;
@@ -82,7 +79,7 @@ h1{
 
 .mini{
     text-align: center;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .div3 p, .div3 section{
@@ -106,9 +103,7 @@ section{
     width: 79%;
 }
 
-.div4{
-    
-}
+
 
 #tip{
     font-size: 1.5rem;
@@ -118,9 +113,7 @@ section{
     display: block;
 }
 
-.div5{
-    
-}
+
 
 .div5 p{
     text-align: center;
@@ -161,10 +154,6 @@ section{
     max-width: 75%;
     display: block;
     margin: auto;
-}
-
-.div6{
-    
 }
 
 .div7 p{
